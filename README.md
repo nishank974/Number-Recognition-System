@@ -24,16 +24,15 @@ Steps to run the code.
 3 Run voicepredict.m and give a new sample and get the expected output.
 
 
-Feedforward neural networks code was developed using Andrew Ng lectures. 
+Feedforward neural networks code was developed using Andrew Ng lectures and to understand the assignments in detail:
 
-To understand the assignments in detail:
-
-1 Complete andrew ng machine learning course for better understanding of the code
+1 Complete andrew ng machine learning Neural Network course.
+  http://www.holehouse.org/mlclass/
 
 2 Learn lpc via youtube.
 
 3 Read Speech Recognition using Neural Networks by Joe Tebelskis.
-
-
+  http://isl.anthropomatik.kit.edu/pdf/Tebelskis1995.pdf 
+ 
 
 
