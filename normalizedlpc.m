@@ -8,7 +8,7 @@ for k=1:30
     display('record voice');
     pause();
     
-     % record one second of data
+     % record two second of data
      recordblocking(recorder,2);
      % get the samples
      x = getaudiodata(recorder);
