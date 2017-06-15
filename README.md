@@ -10,7 +10,7 @@ Summary of the code:-
 
 3 Each sample is of 2 seconds(which can also be changed depending on the RAM).
 
-4 If more accuracy needed then update the fs from 8000 to 16000.
+4 If more accuracy is needed, update the fs from 8000 to 16000.
 
 5 Neural Net is also flexible as number of nodes in hidden layers can be changed easily.
 
